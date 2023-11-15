@@ -1,7 +1,7 @@
 # piggame
 Pig Game
-![Design preview](./Ditay-preview.png)
-![Design preview](./Ditay-preview.png)
+![Design preview](./startGame.png)
+![Design preview](./finishGame.png)
 <br/>
 Description :
 The Pig Game is a two-player dice game where players take turns rolling a die. 
