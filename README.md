@@ -13,16 +13,20 @@ HTML,
 CSS,
 Sass,
 JavaScript.
-<br/>
+
+
 Gameplay Rules :
-<br/>
+
+
 Two players take turns rolling a die.
 Each turn, a player can roll the die multiple times to accumulate points.
 If a player rolls a 1, they lose all the points gained in that turn, and it becomes the next player's turn.
 The game continues until one player accumulates 100 points.
-<br/>
+
+
 Installation:
-<br/>
+
+
 Clone this repository to your local machine using git clone.
 Open the index.html file in a web browser.
 How to Play
